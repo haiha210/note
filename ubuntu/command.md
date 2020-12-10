@@ -53,3 +53,8 @@ sudo passwd root
 ------------------
 ** Lệnh thêm public key cho apt
 sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys <public-key>
+
+- sửa lỗi ssh too many authentication failures
+```
+ssh -o IdentitiesOnly=yes -i "pem.pem" ip
+```
