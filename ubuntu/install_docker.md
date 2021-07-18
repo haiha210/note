@@ -27,7 +27,7 @@ sudo add-apt-repository \
 4. INSTALL DOCKER ENGINE
 ```bash
 sudo apt-get update
-sudo apt-get install docker-ce docker-ce-cli containerd.io
+sudo apt-get install docker-ce docker-ce-cli containerd.io -y
 ```
 
 5. Add your user to docker group
