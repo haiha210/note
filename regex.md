@@ -1,0 +1,4 @@
+Regex match tag html
+```
+<[^>]*>
+```
