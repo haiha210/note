@@ -39,3 +39,8 @@ sudo usermod -aG docker ${USER}
 ```bash
 newgrp docker
 ```
+7. Install docker compose
+```
+sudo apt-get update
+sudo apt-get install docker-compose-plugin
+```
