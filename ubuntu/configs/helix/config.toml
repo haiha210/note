@@ -1,3 +1,5 @@
+# ~/.config/helix/config.toml
+
 theme = "dark_plus"
 
 [keys.normal]
