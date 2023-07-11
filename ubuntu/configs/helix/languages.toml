@@ -1,3 +1,5 @@
+# .config/helix/languages.toml
+
 [[language]]
 name = "rust"
 auto-format = false
