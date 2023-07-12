@@ -1,2 +1,2 @@
-# voc-everytime-everywhere
-Vọc mọi lúc mọi nơi \m/ \m/
+# Note
+Note lại những thứ học được.
